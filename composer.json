@@ -1,5 +1,5 @@
 {
-    "name": "felipepanegalli/plugin_estoque_cakephp3",
+    "name": "felipepanegalli/plugin-estoque-cakephp3",
     "description": "Stock plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
